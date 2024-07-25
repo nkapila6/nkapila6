@@ -31,7 +31,7 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 
 📫 How to reach me:
 
-[![Follow on X](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://x.com/nkapila6) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nikhilkapila/) <a href="https://visitcount.itsvg.in">
+[![Follow on Gravatar](https://img.shields.io/badge/--gravatar?label=Gravatar&logo=Gravatar&style=social)](https://gravatar.com/nkapila6) [![Follow on X](https://img.shields.io/badge/--X?label=X&logo=X&style=social)](https://x.com/nkapila6) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nikhilkapila/) <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nkapila6&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
 
