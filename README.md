@@ -27,7 +27,8 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 - ✅ Knowledge-Based AI (Summer 2023)
 - ✅ Software Development Processes (Fall 2023)
 - ✅ Machine Learning (Spring 2024)
-- ⏲ Research Work (Summer 2024)
+- ✅ Research Work (Summer 2024)
+- ⏲ Deep Learning (Fall 2024)
 
 📫 How to reach me:
 
