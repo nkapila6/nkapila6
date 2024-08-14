@@ -1,20 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
-
-<!--
-**nkapila6/nkapila6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on ...
--->
+<h1 align="center">Hi there 👋
+<div align="center">
+  <a href="https://github.com/nkapila6">
+    <img src="https://visitcount.itsvg.in/api?id=nkapila6&label=Profile%20Views&color=12&icon=0&pretty=false" />
+  </a>
+</div></h1>
 
 I'm Nikhil. I'm pursuing my MS in CS from `Georgia Tech`.
 
@@ -24,6 +13,6 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 
 Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nkapila6&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
+</div>
