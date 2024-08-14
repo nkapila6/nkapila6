@@ -1,0 +1,29 @@
+<h1 align="center">Hi there 👋</h1>
+
+<!--
+**nkapila6/nkapila6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...
+-->
+
+I'm Nikhil. I'm pursuing my MS in CS from `Georgia Tech`.
+
+In my day-job, I work as lighting engineer with expertise in lighting components and controls. All fields (even lighting) are converging towards Tech and I hope to contribute in the near future to bridge this gap.
+
+My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
+
+Feel free to read about me here: [nkapila.me](https://nkapila.me)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nkapila6&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
