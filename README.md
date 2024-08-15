@@ -16,3 +16,7 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
+
+# Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
