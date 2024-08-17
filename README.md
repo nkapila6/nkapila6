@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/knakamura13/mlrose-ky/issues/3) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-2. 💪 Opened PR [#2](https://github.com/knakamura13/mlrose-ky/pull/2) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-3. 🗣 Commented on [#1](https://github.com/knakamura13/mlrose-ky/pull/1#issuecomment-2289410851) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-4. 💪 Opened PR [#1](https://github.com/knakamura13/mlrose-ky/pull/1) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. 🗣 Commented on [#201](https://github.com/jackyzha0/quartz/issues/201#issuecomment-2287154895) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
+1. ❗ Opened issue [#21](https://github.com/Mellnik/nefsamp/issues/21) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
+2. ❗ Opened issue [#3](https://github.com/knakamura13/mlrose-ky/issues/3) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+3. 💪 Opened PR [#2](https://github.com/knakamura13/mlrose-ky/pull/2) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+4. 🗣 Commented on [#1](https://github.com/knakamura13/mlrose-ky/pull/1#issuecomment-2289410851) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+5. 💪 Opened PR [#1](https://github.com/knakamura13/mlrose-ky/pull/1) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 <!--END_SECTION:activity-->
