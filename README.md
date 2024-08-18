@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/knakamura13/mlrose-ky/pull/4) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-2. ❗ Opened issue [#21](https://github.com/Mellnik/nefsamp/issues/21) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
-3. ❗ Opened issue [#3](https://github.com/knakamura13/mlrose-ky/issues/3) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-4. 💪 Opened PR [#2](https://github.com/knakamura13/mlrose-ky/pull/2) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. 🗣 Commented on [#1](https://github.com/knakamura13/mlrose-ky/pull/1#issuecomment-2289410851) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+1. 💪 Opened PR [#5](https://github.com/knakamura13/mlrose-ky/pull/5) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+2. 💪 Opened PR [#4](https://github.com/knakamura13/mlrose-ky/pull/4) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+3. ❗ Opened issue [#21](https://github.com/Mellnik/nefsamp/issues/21) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
+4. ❗ Opened issue [#3](https://github.com/knakamura13/mlrose-ky/issues/3) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+5. 💪 Opened PR [#2](https://github.com/knakamura13/mlrose-ky/pull/2) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 <!--END_SECTION:activity-->
