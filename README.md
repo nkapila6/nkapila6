@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#95](https://github.com/UdaraJay/Pile/issues/95) in [UdaraJay/Pile](https://github.com/UdaraJay/Pile)
-2. 🗣 Commented on [#5](https://github.com/knakamura13/mlrose-ky/pull/5#issuecomment-2295268435) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-3. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2295267110) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-4. 💪 Opened PR [#5](https://github.com/knakamura13/mlrose-ky/pull/5) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. 💪 Opened PR [#4](https://github.com/knakamura13/mlrose-ky/pull/4) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+1. 🗣 Commented on [#56](https://github.com/zen-browser/theme-store/issues/56#issuecomment-2295310098) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
+2. ❗ Opened issue [#95](https://github.com/UdaraJay/Pile/issues/95) in [UdaraJay/Pile](https://github.com/UdaraJay/Pile)
+3. 🗣 Commented on [#5](https://github.com/knakamura13/mlrose-ky/pull/5#issuecomment-2295268435) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+4. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2295267110) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+5. 💪 Opened PR [#5](https://github.com/knakamura13/mlrose-ky/pull/5) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 <!--END_SECTION:activity-->
