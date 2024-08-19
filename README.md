@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/zen-browser/theme-store/issues/57#issuecomment-2295358440) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
-2. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2295331267) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-3. 💪 Opened PR [#6](https://github.com/knakamura13/mlrose-ky/pull/6) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-4. ❌ Closed PR [#5](https://github.com/knakamura13/mlrose-ky/pull/5) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. ❌ Reopened PR [#5](https://github.com/knakamura13/mlrose-ky/pull/5) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+1. 🗣 Commented on [#59](https://github.com/zen-browser/theme-store/pull/59#issuecomment-2295601621) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
+2. 🗣 Commented on [#57](https://github.com/zen-browser/theme-store/issues/57#issuecomment-2295358440) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
+3. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2295331267) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+4. 💪 Opened PR [#6](https://github.com/knakamura13/mlrose-ky/pull/6) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+5. ❌ Closed PR [#5](https://github.com/knakamura13/mlrose-ky/pull/5) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 <!--END_SECTION:activity-->
