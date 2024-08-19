@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#323](https://github.com/zen-browser/desktop/issues/323) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#59](https://github.com/zen-browser/theme-store/pull/59#issuecomment-2295601621) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
-3. 🗣 Commented on [#57](https://github.com/zen-browser/theme-store/issues/57#issuecomment-2295358440) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
-4. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2295331267) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. 💪 Opened PR [#6](https://github.com/knakamura13/mlrose-ky/pull/6) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+1. 🗣 Commented on [#21](https://github.com/Mellnik/nefsamp/issues/21#issuecomment-2297045537) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
+2. ❗ Opened issue [#323](https://github.com/zen-browser/desktop/issues/323) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#59](https://github.com/zen-browser/theme-store/pull/59#issuecomment-2295601621) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
+4. 🗣 Commented on [#57](https://github.com/zen-browser/theme-store/issues/57#issuecomment-2295358440) in [zen-browser/theme-store](https://github.com/zen-browser/theme-store)
+5. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2295331267) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 <!--END_SECTION:activity-->
