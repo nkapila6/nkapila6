@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11#issuecomment-2357648852) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
-2. ❗ Opened issue [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
-3. 🗣 Commented on [#21](https://github.com/Mellnik/nefsamp/issues/21#issuecomment-2338415225) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
-4. 🗣 Commented on [#21](https://github.com/Mellnik/nefsamp/issues/21#issuecomment-2297920003) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
-5. 🗣 Commented on [#21](https://github.com/Mellnik/nefsamp/issues/21#issuecomment-2297045537) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
+1. 🗣 Commented on [#16](https://github.com/knakamura13/mlrose-ky/pull/16#issuecomment-2380452324) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+2. 🗣 Commented on [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11#issuecomment-2357648852) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
+3. ❗ Opened issue [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
+4. 🗣 Commented on [#21](https://github.com/Mellnik/nefsamp/issues/21#issuecomment-2338415225) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
+5. 🗣 Commented on [#21](https://github.com/Mellnik/nefsamp/issues/21#issuecomment-2297920003) in [Mellnik/nefsamp](https://github.com/Mellnik/nefsamp)
 <!--END_SECTION:activity-->
