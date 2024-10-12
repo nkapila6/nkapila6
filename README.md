@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20](https://github.com/knakamura13/mlrose-ky/issues/20) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-2. 💪 Opened PR [#19](https://github.com/knakamura13/mlrose-ky/pull/19) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-3. 🗣 Commented on [#16](https://github.com/knakamura13/mlrose-ky/pull/16#issuecomment-2380452324) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-4. 🗣 Commented on [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11#issuecomment-2357648852) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
-5. ❗ Opened issue [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
+1. 🗣 Commented on [#3](https://github.com/logic-tonic/omscs-course-planner/issues/3#issuecomment-2408546567) in [logic-tonic/omscs-course-planner](https://github.com/logic-tonic/omscs-course-planner)
+2. ❗ Opened issue [#20](https://github.com/knakamura13/mlrose-ky/issues/20) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+3. 💪 Opened PR [#19](https://github.com/knakamura13/mlrose-ky/pull/19) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+4. 🗣 Commented on [#16](https://github.com/knakamura13/mlrose-ky/pull/16#issuecomment-2380452324) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+5. 🗣 Commented on [#11](https://github.com/xardbaiz/joplin-plugin-hackmd/issues/11#issuecomment-2357648852) in [xardbaiz/joplin-plugin-hackmd](https://github.com/xardbaiz/joplin-plugin-hackmd)
 <!--END_SECTION:activity-->
