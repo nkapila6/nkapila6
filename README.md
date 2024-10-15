@@ -19,9 +19,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#709](https://github.com/kkapsner/CanvasBlocker/issues/709#issuecomment-2411702345) in [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
-2. 💪 Opened PR [#420](https://github.com/tomlin7/biscuit/pull/420) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
-3. ❗ Opened issue [#1](https://github.com/nkapila6/mlrose-ky/issues/1) in [nkapila6/mlrose-ky](https://github.com/nkapila6/mlrose-ky)
-4. 🗣 Commented on [#3](https://github.com/knakamura13/mlrose-ky/issues/3#issuecomment-2408986344) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. 🔒 Closed issue [#3](https://github.com/knakamura13/mlrose-ky/issues/3) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+1. 🗣 Commented on [#164](https://github.com/tomlin7/biscuit/issues/164#issuecomment-2413174504) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
+2. ❗ Opened issue [#14](https://github.com/TkinterEP/python-tkextrafont/issues/14) in [TkinterEP/python-tkextrafont](https://github.com/TkinterEP/python-tkextrafont)
+3. 🗣 Commented on [#709](https://github.com/kkapsner/CanvasBlocker/issues/709#issuecomment-2411702345) in [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
+4. 💪 Opened PR [#420](https://github.com/tomlin7/biscuit/pull/420) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
+5. ❗ Opened issue [#1](https://github.com/nkapila6/mlrose-ky/issues/1) in [nkapila6/mlrose-ky](https://github.com/nkapila6/mlrose-ky)
 <!--END_SECTION:activity-->
