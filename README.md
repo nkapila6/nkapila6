@@ -17,6 +17,8 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
+[![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
+
 # Recent Activity
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#19](https://github.com/rhettlunn/is-odd-ai/issues/19) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
