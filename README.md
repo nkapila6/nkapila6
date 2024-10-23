@@ -21,9 +21,9 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 # Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/rhettlunn/is-odd-ai/issues/19) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
-2. ❗ Opened issue [#28](https://github.com/knakamura13/mlrose-ky/issues/28) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-3. 🗣 Commented on [#164](https://github.com/tomlin7/biscuit/issues/164#issuecomment-2413174504) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
-4. ❗ Opened issue [#14](https://github.com/TkinterEP/python-tkextrafont/issues/14) in [TkinterEP/python-tkextrafont](https://github.com/TkinterEP/python-tkextrafont)
-5. 🗣 Commented on [#709](https://github.com/kkapsner/CanvasBlocker/issues/709#issuecomment-2411702345) in [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker)
+1. 💪 Opened PR [#25](https://github.com/rhettlunn/is-odd-ai/pull/25) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
+2. 🗣 Commented on [#24](https://github.com/rhettlunn/is-odd-ai/issues/24#issuecomment-2429336663) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
+3. ❗ Opened issue [#19](https://github.com/rhettlunn/is-odd-ai/issues/19) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
+4. ❗ Opened issue [#28](https://github.com/knakamura13/mlrose-ky/issues/28) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
+5. 🗣 Commented on [#164](https://github.com/tomlin7/biscuit/issues/164#issuecomment-2413174504) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
 <!--END_SECTION:activity-->
