@@ -13,10 +13,6 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 
 Feel free to read more here: [nkapila.me](https://nkapila.me)
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
-</div>
-
 ## Recent Work
 ### Research
 - [CNNtention: Can Attention help CNNs learn better?](https://github.com/AttentionSeekers/CNNtention)
@@ -36,5 +32,9 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 4. ❗ Opened issue [#28](https://github.com/knakamura13/mlrose-ky/issues/28) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 5. 🗣 Commented on [#164](https://github.com/tomlin7/biscuit/issues/164#issuecomment-2413174504) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
 <!--END_SECTION:activity-->
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
+</div>
 
 [![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
