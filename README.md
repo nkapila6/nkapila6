@@ -17,16 +17,15 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
-# Recent Work
-
-## Research
+## Recent Work
+### Research
 - [CNNtention: Can Attention help CNNs learn better?](https://github.com/AttentionSeekers/CNNtention)
 - [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
 
-## Projects
+### Projects
 - [mlrose: optimization library for Georgia Tech's ML class](https://github.com/knakamura13/mlrose-ky/)
 
-## Over 9000 IQ Memeing
+### Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
 
 # Recent Activity
