@@ -19,6 +19,13 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 
 [![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
 
+# Research Work
+- [CNNtention: Can Attention help CNNs learn better?](https://github.com/AttentionSeekers/CNNtention)
+- [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
+
+# Over 9000 IQ Memeing
+- [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
+
 # Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#25](https://github.com/rhettlunn/is-odd-ai/pull/25) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
