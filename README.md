@@ -11,19 +11,22 @@ In my day-job, I work as lighting engineer with expertise in lighting components
 
 My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
 
-Feel free to read about me here: [nkapila.me](https://nkapila.me)
+Feel free to read more here: [nkapila.me](https://nkapila.me)
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
-[![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
+# Recent Work
 
-# Research Work
+## Research
 - [CNNtention: Can Attention help CNNs learn better?](https://github.com/AttentionSeekers/CNNtention)
 - [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
 
-# Over 9000 IQ Memeing
+## Projects
+- [mlrose: optimization library for Georgia Tech's ML class](https://github.com/knakamura13/mlrose-ky/)
+
+## Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
 
 # Recent Activity
@@ -34,3 +37,5 @@ Feel free to read about me here: [nkapila.me](https://nkapila.me)
 4. ❗ Opened issue [#28](https://github.com/knakamura13/mlrose-ky/issues/28) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
 5. 🗣 Commented on [#164](https://github.com/tomlin7/biscuit/issues/164#issuecomment-2413174504) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
 <!--END_SECTION:activity-->
+
+[![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
