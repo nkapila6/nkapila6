@@ -24,7 +24,7 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 ### Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
 
-# Recent Activity
+## Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#25](https://github.com/rhettlunn/is-odd-ai/pull/25) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
 2. 🗣 Commented on [#24](https://github.com/rhettlunn/is-odd-ai/issues/24#issuecomment-2429336663) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
