@@ -24,15 +24,6 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 ### Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
 
-## Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/rhettlunn/is-odd-ai/pull/25) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
-2. 🗣 Commented on [#24](https://github.com/rhettlunn/is-odd-ai/issues/24#issuecomment-2429336663) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
-3. ❗ Opened issue [#19](https://github.com/rhettlunn/is-odd-ai/issues/19) in [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai)
-4. ❗ Opened issue [#28](https://github.com/knakamura13/mlrose-ky/issues/28) in [knakamura13/mlrose-ky](https://github.com/knakamura13/mlrose-ky)
-5. 🗣 Commented on [#164](https://github.com/tomlin7/biscuit/issues/164#issuecomment-2413174504) in [tomlin7/biscuit](https://github.com/tomlin7/biscuit)
-<!--END_SECTION:activity-->
-
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
