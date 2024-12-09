@@ -11,7 +11,7 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 
 ## Recent Work
 ### Research
-- [CNNtention: Can Attention help CNNs learn better?](https://github.com/AttentionSeekers/CNNtention)
+- [CNNtention: Can CNNs do better with Attention?](https://github.com/AttentionSeekers/CNNtention)
 - [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
 
 ### Projects
