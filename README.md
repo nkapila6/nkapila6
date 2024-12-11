@@ -20,9 +20,9 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 ### Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
 
-## Stats
+<!-- ## Stats
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
-[![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
+[![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6) -->
