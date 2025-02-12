@@ -17,7 +17,9 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 - [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
 
 ### Projects
-- [mlrose: optimization library for Georgia Tech's ML class](https://github.com/knakamura13/mlrose-ky/)
+- mlrose-ky
+  - [mlrose-ky: optimization library for Georgia Tech's Machine Learning class](https://github.com/knakamura13/mlrose-ky/)
+  - [mlrose-ky docs](https://nkapila6.github.io/mlrose-ky/)
 
 ### Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
