@@ -15,6 +15,7 @@ Feel free to read more here: [nkapila.me](https://nkapila.me)
 ## Recent Work
 ### Research
 <!-- - [(Ongoing) NLPVise: advising disease prediction using NLP techniques](https://github.com/AttentionSeekers/NLPVise) -->
+- [FarSightBERT: Long term disease prediction using BERT embeddings](https://github.com/AttentionSeekers/FarSightBERT)
 - [CNNtention: Can CNNs do better with Attention?](https://arxiv.org/abs/2412.11657)
 - [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
 
