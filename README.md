@@ -2,8 +2,9 @@
 
 I'm Nikhil. I'm pursuing my MS in CS from `Georgia Tech`. In my day-job, I work as lighting engineer with expertise in lighting components and controls. My time at `Georgia Tech` has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
 
-Looking for freelance or part time opportunities in the AI/ML modelling or engineering space. Feel free to read more about me on my blog: [nkapila.me](https://nkapila.me)
+Feel free to read more about me on my blog: [nkapila.me](https://nkapila.me)
 
+## Some work
 #### Recent Projects
 - [mcp-local-rag: Web Search for MCP clients](https://github.com/nkapila6/mcp-local-rag/)
 - [mcp-meme-sticky: Make memes and stickers for Telegram/WhatsApp](https://github.com/nkapila6/mcp-meme-sticky/)   
@@ -16,6 +17,9 @@ Looking for freelance or part time opportunities in the AI/ML modelling or engin
 
 #### Over 9000 IQ Memeing
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
+
+## Get in touch
+I'm looking for freelance or part time opportunities in the AI/ML modelling or engineering space. Feel free to contact me at [info@nkapila.me](mailto:info@nkapila.me)
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
