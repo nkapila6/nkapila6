@@ -21,10 +21,11 @@ Feel free to read more about me on my blog: [nkapila.me](https://nkapila.me)
 ## Get in touch
 Open to opportunities in AI/ML open-source work, modelling, or engineering space! Feel free to contact me at [info@nkapila.me](mailto:info@nkapila.me)
 
+<!-- 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
-<!-- 
+
 [![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
 -->
