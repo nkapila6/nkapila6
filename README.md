@@ -19,7 +19,7 @@ Feel free to read more about me on my blog: [nkapila.me](https://nkapila.me)
 - [is-even-ai: Use AI to check if number is even](https://github.com/nkapila6/is-even-ai)
 
 ## Get in touch
-Open to opportunities in the AI/ML open-source work, modelling, or engineering space! Feel free to contact me at [info@nkapila.me](mailto:info@nkapila.me)
+Open to opportunities in AI/ML open-source work, modelling, or engineering space! Feel free to contact me at [info@nkapila.me](mailto:info@nkapila.me)
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nkapila6&theme=humoris&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" /></a>
