@@ -31,3 +31,8 @@ Open to opportunities in AI/ML open-source work, modelling, or engineering space
 
 [![An image of @nkapila6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nkapila6)](https://holopin.io/@nkapila6)
 -->
+
+## Buy Me A Coffee
+If the knowledge shared in my repos or the software I've built has been helpful to you. Please do buy me a coffee, would really appreciate it! 😄
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51MK4A1)
+
