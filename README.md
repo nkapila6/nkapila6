@@ -6,7 +6,7 @@ My time at `Georgia Tech` has gotten me deeply intrigued into mathematics, machi
 
 Feel free to read more about my shenanigans on my blog, [nkapila.me](https://nkapila.me)
 
-## Some work
+<!-- ## Some work -->
 #### Open source contributions
 - [mlrose-ky: optimization library for Georgia Tech's Machine Learning class](https://github.com/knakamura13/mlrose-ky/) and [mlrose-ky docs](https://nkapila6.github.io/mlrose-ky/)
 - [tomlin7/biscuit: native ide with agents and exts < 20mb](https://github.com/tomlin7/biscuit)
@@ -44,6 +44,7 @@ Open to opportunities in AI/ML open-source work, modelling, or engineering space
 If my work has been helpful, a coffee is always appreciated! 😄
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51MK4A1)
+
 
 
 
