@@ -1,8 +1,9 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
-I'm Nikhil. I have an MS in CS from `Georgia Tech` with a specialization in Artificial Intelligence. I'm currently working as a Lead AI/ML Engineer. I used to work in the lighting industry and have lots of experience in lighting components and controls at all levels of the stack. In my free time, I tinker a lot with embedded devices and see how to bring AI into the IoT space.
+I'm Nikhil. I have an MS in CS from `Georgia Tech` with a specialization in Artificial Intelligence. I'm currently working as a Lead AI/ML Engineer. I used to work in the lighting industry and have lots of experience in lighting components and controls at all levels of the stack.
 
 My time at `Georgia Tech` has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
+I further want to look more into embedded devices and see how edge level AI inference would work!
 
 Feel free to read more about my shenanigans on my blog, [nkapila.me](https://nkapila.me)
 
@@ -44,6 +45,7 @@ Open to opportunities in AI/ML open-source work, modelling, or engineering space
 If my work has been helpful, a coffee is always appreciated! 😄
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51MK4A1)
+
 
 
 
