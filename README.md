@@ -1,5 +1,7 @@
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
+_Used to backpropagate at @gatech. Now I backpropagate at home. Still pushing gradients to open source._
+
 I'm Nikhil. I have an MS in CS from `Georgia Tech` with a specialization in Artificial Intelligence. I'm currently working as a Lead AI/ML Engineer. I used to work in the lighting industry and have lots of experience in lighting components and controls at all levels of the stack.
 
 My time at `Georgia Tech` has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
