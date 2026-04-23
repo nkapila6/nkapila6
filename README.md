@@ -22,9 +22,11 @@ Feel free to read more about my shenanigans on my blog, [nkapila.me](https://nka
 - [mlrose-ky: optimization library for Georgia Tech's Machine Learning class](https://github.com/knakamura13/mlrose-ky/) and [mlrose-ky docs](https://nkapila6.github.io/mlrose-ky/) -->
 
 #### My attempts to build intuition in the Deep Learning space.
+- [gpt in PyTorch](https://github.com/nkapila6/gpt)
 - [FarSightBERT: Long term disease prediction using BERT embeddings](https://github.com/AttentionSeekers/FarSightBERT/blob/main/submission/bd4h_final_report.pdf)
 - [CNNtention: Can CNNs do better with Attention?](https://arxiv.org/abs/2412.11657)
 - [LSTMs trained on Building Genome Dataset 2](https://github.com/nkapila6/lstm-bgd2)
+- .. more coming soon!
 
 
 
