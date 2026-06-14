@@ -51,7 +51,17 @@ If my work has been helpful, a coffee is always appreciated! 😄
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51MK4A1)
 
 ## Stats
-<center><img src="https://algora.io/og/user/nkapila6" /></center>
+  <div align="center">
+  <img src="https://algora.io/og/user/nkapila6" width="600" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=nkapila6&theme=tokyonight" />
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=nkapila6&theme=tokyonight&cardType=langs" />
+</div>
+
 
 
 
